@@ -10,3 +10,8 @@ Download the Arduino IDE, then copy and paste the code in the file "Button_Piano
 ### Building
 
 ### Parts Needed
+
+- any Arduino board
+- any breadboard
+- an active buzzer
+- 5 buttons
