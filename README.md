@@ -22,7 +22,7 @@ Download the Arduino IDE, then copy and paste the code in the file "Button_Piano
 
 Here is a diagram that shows the wiring: 
 
-![Screenshot1](Screenshot%202026-09-16%20121808.png)
+![Screenshot1](Screenshot%202026-10-04%20170519.png)
 
 ## Created With
 
