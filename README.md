@@ -15,7 +15,7 @@ Download the Arduino IDE, then copy and paste the code in the file "Button_Piano
 - any breadboard
 - an active buzzer
 - 5 buttons
-- 5 10K ohm resistors
+- 5 10k ohm resistors
 - 19 wires
 
 ### Diagram
